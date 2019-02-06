@@ -16,21 +16,39 @@ weight = 7
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "r-project"
+  icon = "python"
   icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  name = "Python"
+  description = "advanced"
+ 
+[[feature]]
+  icon = "java"
+  icon_pack = "fab"
+  name = "Java"
+  description = "advanced"
+
+[[feature]]
+  icon = "node-js"
+  icon_pack = "fab"
+  name = "Node JS"
+  description = "advanced"
   
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  icon = "aws"
+  icon_pack = "fab"
+  name = "AWS"
+  description = "advanced"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "brain"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Machine Learning"
+  description = "advanced"  
+
+[[feature]]
+  icon = "linux"
+  icon_pack = "fab"
+  name = "Linux"
+  description = "advanced"
 
 +++

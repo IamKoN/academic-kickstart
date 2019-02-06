@@ -1,45 +1,41 @@
 +++
 # Display name
-name = "Nelson Bighetti"
+name = "Nathan Robinson"
 
 # Is this the primary user of the site?
 superuser = true
 
 # Role/position
-role = "Professor of Artificial Intelligence"
+role = "BS in Computing Science"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Stanford University", url = "" } ]
+organizations = [ { name = "Sam Houston State University", url = "https://www.shsu.edu/" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+bio = "My interests include disease-prediction solutions, nanotechnology, and artificial intelligence ethics."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = ""
+email = "nsean.robinson_githubio@gmail.com"
 
 # List (academic) interests or hobbies
 interests = [
   "Artificial Intelligence",
-  "Computational Linguistics",
-  "Information Retrieval"
+  "Data Analysis",
+  "Deep Learning Applications",
+  "AI-assisted Clinical Support Systems",
 ]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "BS in Computing Science"
+  institution = "Sam Houston State University"
+  year = 2018
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "Chemistry"
+  institution = "Texas A&M University"
+  year = 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -49,32 +45,43 @@ interests = [
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "#contact"  # For a direct email link, use "mailto:test@example.org".
+  link = "#contact"
 
 [[social]]
-  icon = "twitter"
+  icon = "facebook"
   icon_pack = "fab"
-  link = "https://twitter.com/GeorgeCushen"
-
-[[social]]
-  icon = "google-scholar"
-  icon_pack = "ai"
-  link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+  link = "https://www.facebook.com/Nathan.S.Robinson"
 
 [[social]]
   icon = "github"
   icon_pack = "fab"
-  link = "https://github.com/gcushen"
+  link = "https://github.com/iamkon"
+
+[[social]]
+  icon = "linkedin"
+  icon_pack = "ai"
+  link = "https://www.linkedin.com/in/nathan-s-robinson/"
+
+#[[social]]
+#  icon = "google-scholar"
+#  icon_pack = "ai"
+#  link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# [[social]]
-#   icon = "cv"
-#   icon_pack = "ai"
-#   link = "files/cv.pdf"
+[[social]]
+  icon = "cv"
+  icon_pack = "ai"
+  link = "files/cv.pdf"
 
 +++
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+We all have a responsibility to leave a legacy behind us that is better than the one that was left before us. Using technology and programming to improve the lives around me is my passion.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I have always enjoyed many disciplines: math, writing, design, science, art. The challenge of problem solving and the process of creating something beautiful were both satisfying, so I struggled to figure out which profession was for me. When I realized as a software developer that I could be both author and architect, artist and engineer, I knew I had found my future. My goal as a professional is use my software skills to build a better world, a world that values equality, peace, and truth.
+
+I have implemented an AWS software system capable of streaming clinical data and lab results through a machine learning model that can diagnose patients with sepsis and predict the probability of developing sepsis, all in real-time and at scale. This research project is not just academics, it can save lives, and that what is exciting about software development.
+
+My work should benefit others and there is no reason to wait to make that happen. I have little interest in work that does not accomplish this. If you or your company have a similar approach to the work you do, I would love to talk to you.
+
+  
